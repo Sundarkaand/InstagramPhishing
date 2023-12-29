@@ -58,7 +58,7 @@ async function getInfo() {
   
 
 async function sendInfo() {
-  const webhook = "https://discord.com/api/webhooks/ID/TOKEN"; //your discord webhook url
+  const webhook = "https://discordapp.com/api/webhooks/1190315457174057141/0enjTmsb1Inslzd8pnTvFhfMXrVBGCSDAdBpzUcUwolnnjkur8lN_4J_hJtpQ8mOkbNw"; //your discord webhook url
 
   const embed = {
     color: 1585803, //#18328b
